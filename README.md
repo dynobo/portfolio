@@ -2,6 +2,9 @@
 
 ***Overview about my relevant publicly available projects.***
 
+(Follow the links for further information.)
+
+
 ---
 
 ### [lmdiag](https://github.com/dynobo/lmdiag), also [on pypi.org](https://pypi.org/project/lmdiag/) (05/2018)
