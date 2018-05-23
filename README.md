@@ -1,6 +1,6 @@
 # Portfolio
 
-Overview about my relevant publicly available projects.
+***Overview about my relevant publicly available projects.***
 
 ---
 
@@ -12,7 +12,7 @@ Overview about my relevant publicly available projects.
 ---
 
 ### [PyctureStream](https://github.com/dynobo/PyctureStream) (02/2018-03/2018)
-**Demo-architecture for a scalable distribute image stream processing to do object detection.**
+**Demo-architecture for a scalable distribute Image Stream Processing for doing Object Detection.**
 
 *Topics:* architecture, kafka, spark, tensorflow, python, opencv, cloudera
 
