@@ -2,6 +2,11 @@
 
 **Overview about some of my public available projects.**
 
+#### [ContinAuth]() (11/2018-06/2019)
+**Continuous Authentication using Inertial-Sensors of Smartphones and Deep Learning** (Masterthesis)
+
+Topics: sensor data, siamese network, deep-learning, ocsvm, python, keras, scikit-learn
+
 ---
 
 #### [lmdiag](https://github.com/dynobo/lmdiag), also [on pypi.org](https://pypi.org/project/lmdiag/) (05/2018)
