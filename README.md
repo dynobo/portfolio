@@ -2,6 +2,8 @@
 
 **Overview about some of my public available projects.**
 
+---
+
 #### [ContinAuth]() (11/2018-06/2019)
 **Continuous Authentication using Inertial-Sensors of Smartphones and Deep Learning** (Masterthesis)
 
