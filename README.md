@@ -4,7 +4,14 @@
 
 ---
 
-#### [ContinAuth]() (11/2018-06/2019)
+#### [normcap](https://github.com/dynobo/normcap) (09/2019-ongoing)
+**Intelligent screencapture tool to capture information instead of images** (Spare time project)
+
+Topics: accessory, python, tkinter, tesseract
+
+---
+
+#### [ContinAuth](https://github.com/dynobo/ContinAuth) (11/2018-06/2019)
 **Continuous Authentication using Inertial-Sensors of Smartphones and Deep Learning** (Masterthesis)
 
 Topics: sensor data, siamese network, deep-learning, ocsvm, python, keras, scikit-learn
